@@ -4,7 +4,7 @@
 
 ## 使用
 
-- 在线：https://jet46-source.github.io/ap-calc-bc-mcq/
+- 在线：https://eric091225.github.io/ap-calc-bc-mcq/
 - 本地：下载 `index.html`，用浏览器直接打开即可。
 
 无需安装依赖，所有内容打包在单个 HTML 文件内。
